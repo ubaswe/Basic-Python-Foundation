@@ -1,28 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
-
-#Variable input
-x=int(input("Enter x value: "))
-y=int(input("Enter y value: "))
-z=x+y
-print(z)
-
-
-# In[7]:
-
-
-k=("Hello world")
-print(k[1])
-print(k[2])
-print(k[0:2])
-
-
-# In[8]:
-
-
 #list
 list=["uba","tamim","shohel","shovon"]
 list[3]="sunny"
@@ -43,8 +18,6 @@ for x in list:
     print(list)
 
 
-# In[16]:
-
 
 #tuple
 tuple=("uba","tamim","shohel","robiul")
@@ -56,8 +29,6 @@ print(tuple)
 tuple=tuple*2
 print(tuple)
 
-
-# In[13]:
 
 
 #set
@@ -82,8 +53,6 @@ set2 = {1, 2, 3}
 set1.update(set2)
 print(set1)
 
-
-# In[28]:
 
 
 #Dictionary
