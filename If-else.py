@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
 
 #if-else 
 
@@ -16,7 +11,6 @@ else:
     print("Y is Bigger than X")
 
 
-# In[6]:
 
 
 #write a program of grading system using if-else
